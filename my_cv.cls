@@ -56,7 +56,7 @@
 	\vspace{-0.5pt}
 	{\scshape{\bfseries #1}} & #2 \\
 	{#3} & {\small#4} \\
-	{\hspace{10pt}\small{\textit{\textbf{--} Thesis: #5}}} & \\
+	%{\hspace{10pt}\small{\textit{\textbf{--} Thesis: #5}}} & \\
 \end{tabular*}
 }
 
