@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.13)  14 OCT 2023 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.26)  27 OCT 2023 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -355,6 +355,10 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
 
 ! LaTeX Error: There's no line here to end.
 
@@ -382,7 +386,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<edinburgh.jpeg, id=33, 100.375pt x 100.375pt>
+<edinburgh.jpeg, id=37, 100.375pt x 100.375pt>
 File: edinburgh.jpeg Graphic file (type jpg)
 <use edinburgh.jpeg>
 Package pdftex.def Info: edinburgh.jpeg  used on input line 21.
@@ -395,10 +399,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\includegraphics' on input line 21.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 25.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 25.
 ! Undefined control sequence.
 <argument> l@{\cftdotfill 
                           {\cftsecdotsep }\extracolsep {\fill }}r
@@ -495,7 +495,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<LI-Logo.png, id=35, 532.8708pt x 130.086pt>
+<LI-Logo.png, id=39, 532.8708pt x 130.086pt>
 File: LI-Logo.png Graphic file (type png)
 <use LI-Logo.png>
 Package pdftex.def Info: LI-Logo.png  used on input line 39.
@@ -718,7 +718,7 @@ and I'll forget about whatever was undefined.
 
 {/usr/local/texlive/2023basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
 edinburgh.jpeg> <./LI-Logo.png>] [2]
-<scholar_logo_64dp.png, id=55, 382.42876pt x 64.24pt>
+<scholar_logo_64dp.png, id=59, 382.42876pt x 64.24pt>
 File: scholar_logo_64dp.png Graphic file (type png)
 <use scholar_logo_64dp.png>
 Package pdftex.def Info: scholar_logo_64dp.png  used on input line 106.
@@ -771,7 +771,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 \item[]
+l.135 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -783,7 +783,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \item[]
+l.141 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -795,7 +795,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.152 \item[]
+l.150 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -807,7 +807,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.160 \item[]
+l.157 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -819,7 +819,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 \item[]
+l.164 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -843,7 +843,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179 \item[]
+l.178 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -855,7 +855,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.186 \item[]
+l.184 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -867,7 +867,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193 \item[]
+l.191 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -879,7 +879,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.199 \item[]
+l.198 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -903,7 +903,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 \item[]
+l.211 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -915,7 +915,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.220 \item[]
+l.217 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -927,7 +927,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.227 \item[]
+l.226 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -939,7 +939,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.233 \item[]
+l.232 \item[]
              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -980,6 +980,7 @@ l.251 \item[]
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+ [4]
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -992,7 +993,6 @@ l.257 \item[]
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
- [4]
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -1017,34 +1017,58 @@ l.269 \item[]
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275 \item[]
+             
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.281 \item[]
+             
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
  [5] (./cv.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 55951A3305C6AAF56AC6104B280A2917;1301.
+(rerunfilecheck)             Checksum: 25A9C9195969E8D13C429EA36F4458C8;1389.
  ) 
 Here is how much of TeX's memory you used:
- 9287 strings out of 477476
- 148102 string characters out of 5824243
+ 9289 strings out of 477476
+ 148122 string characters out of 5824243
  1877388 words of memory out of 5000000
- 29429 multiletter control sequences out of 15000+600000
+ 29430 multiletter control sequences out of 15000+600000
  515674 words of font info for 43 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  90i,7n,90p,500b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/spolyak/Library/texlive/2023basic/texmf-var/fonts/pk/ljfour/jknappen
-/ec/tcrm0900.600pk> </Users/spolyak/Library/texlive/2023basic/texmf-var/fonts/p
-k/ljfour/jknappen/ec/tcrm1200.600pk></usr/local/texlive/2023basic/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023basic/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023basic/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023basic/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023basi
-c/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023b
-asic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on cv.pdf (5 pages, 161362 bytes).
+ </Users/stevepolyak/Library/texlive/2023basic/texmf-var/fonts/pk/ljfour/jkna
+ppen/ec/tcrm0900.600pk> </Users/stevepolyak/Library/texlive/2023basic/texmf-var
+/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/local/texlive/2023basic/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023basic/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023basi
+c/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/202
+3basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/
+2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
+ve/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on cv.pdf (5 pages, 163331 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 72 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
 
